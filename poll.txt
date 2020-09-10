@@ -1,0 +1,21 @@
+Election Results : 
+--------------------
+
+----------------
+Total Votes : 3521001
+----------------
+
+The total votes for each canidate are: 
+[[Candidate
+Correy       704200
+Khan        2218231
+Li           492940
+O'Tooley     105630
+Name: Candidate, dtype: int64, Candidate
+Correy      19.999989
+Khan        62.999993
+Li          13.999992
+O'Tooley     2.999998
+Name: Candidate, dtype: float64]]
+------------------
+The Winner Is :
